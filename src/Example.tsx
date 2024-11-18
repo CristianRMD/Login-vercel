@@ -31,6 +31,7 @@ export default function Example() {
                  ></Input>
                 </div>
               </div>
+              <Button></Button>
   
               <div>
                 <div className="flex items-center justify-between">
